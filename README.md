@@ -2,6 +2,11 @@
 
 [![Coverage badge](https://raw.githubusercontent.com/py-cov-action/python-coverage-comment-action/python-coverage-comment-action-data/badge.svg)](https://github.com/py-cov-action/python-coverage-comment-action/tree/python-coverage-comment-action-data)
 
+
+## Helpful links
+Badges: 
+https://shields.io/
+
 ## Presentation
 
 This action analyses the coverage data produced by the Python
